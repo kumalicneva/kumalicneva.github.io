@@ -1,0 +1,68 @@
+body {
+	background-color: #BBFAC4;
+	font-size: 18px;
+	font-family: Ariel;
+	color: grey;
+    }
+
+header {
+	background-color: #3EFA5E;
+	color:white;
+	padding: 2px;
+	height: 200px;
+	text-align: center;
+	font-size: 40px;
+    }
+
+nav {
+	font-size: 18px;
+	line-height: 30px;
+	background-color: #96FBAF;
+	height: 850px;
+	width: 250px;
+	float: left;
+	padding: 2px;
+    }
+	
+ul {
+	padding:15px;
+   }
+
+h1 {
+	color: black
+   }
+
+h2 {color: black
+   }
+
+section {
+	padding: 10px;
+	height: 700px;
+	width: 700px;
+    float: left;
+	color: black;
+    }	
+	
+naslovcki {
+	font-size: 18px;
+	color: bold grey;
+    }
+
+img {
+	text-align: right;
+   }
+
+#logo{
+	position:fixed;
+	top:0;
+	left:0;
+	margin:10px;
+}
+
+footer {
+	background-color:#BBFAC1;
+	color:black;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
